@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cara
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: bind_pelvis
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_l_thigh01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_l_thigh01/bind_l_knee01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_l_thigh01/bind_l_knee01/bind_l_anklee01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_l_thigh01/bind_l_knee01/bind_l_anklee01/bind_l_foot01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_l_thigh01/bind_l_knee01/bind_l_anklee01/bind_l_foot01/bind_l_toeend01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_r_thigh01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_r_thigh01/bind_r_knee01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_r_thigh01/bind_r_knee01/bind_r_anklee01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_r_thigh01/bind_r_knee01/bind_r_anklee01/bind_r_foot01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_r_thigh01/bind_r_knee01/bind_r_anklee01/bind_r_foot01/bind_r_toeend01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_handEnd01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_index01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_index01/bind_l_index02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_index01/bind_l_index02/bind_l_index03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_index01/bind_l_index02/bind_l_index03/bind_l_index04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_mid01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_mid01/bind_l_mid02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_mid01/bind_l_mid02/bind_l_mid03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_mid01/bind_l_mid02/bind_l_mid03/bind_l_mid04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_pinky01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_pinky01/bind_l_pinky02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_pinky01/bind_l_pinky02/bind_l_pinky03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_pinky01/bind_l_pinky02/bind_l_pinky03/bind_l_pinky04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_ring01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_ring01/bind_l_ring02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_ring01/bind_l_ring02/bind_l_ring03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_hand01/bind_l_ring01/bind_l_ring02/bind_l_ring03/bind_l_ring04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_thumb01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_thumb01/bind_l_thumb02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_thumb01/bind_l_thumb02/bind_l_thumb03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_l_clavicle/bind_l_shoulder01/bind_l_elbow01/bind_l_wrist01/bind_l_thumb01/bind_l_thumb02/bind_l_thumb03/bind_l_thumb04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_headEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw/bind_jaw_End
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw/bind_tongue01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw/bind_tongue01/bind_tongue02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw/bind_tongue01/bind_tongue02/bind_tongue03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_jaw/bind_tongue01/bind_tongue02/bind_tongue03/bind_tongue04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_ear
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_ear/bind_l_earEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eye
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eye/end_bind_l_eye
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_cenho
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_cenho/bind_l_eyebraw_cenhoEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_corner
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_corner/bind_l_eyebraw_cornerEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_mid
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_eyebraw_mid/bind_l_eyebraw_midEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_parpado_inf
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_parpado_inf/end_bind_l_parpado_inf
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_parpado_sup
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_l_parpado_sup/end_bind_l_parpado_sup
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_nose
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_nose/bind_noseEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_ear
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_ear/bind_r_earEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eye
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eye/end_bind_r_eye
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_cenho
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_cenho/bind_r_eyebraw_cenhoEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_corner
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_corner/bind_r_eyebraw_cornerEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_mid
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_eyebraw_mid/bind_r_eyebraw_midEnd
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_parpado_inf
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_parpado_inf/end_bind_r_parpado_inf
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_parpado_sup
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_neck01/bind_head01/bind_r_parpado_sup/end_bind_r_parpado_sup
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_handEnd01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_index01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_index01/bind_r_index02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_index01/bind_r_index02/bind_r_index03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_index01/bind_r_index02/bind_r_index03/bind_r_index04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_mid01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_mid01/bind_r_mid02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_mid01/bind_r_mid02/bind_r_mid03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_mid01/bind_r_mid02/bind_r_mid03/bind_r_mid04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_pinky01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_pinky01/bind_r_pinky02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_pinky01/bind_r_pinky02/bind_r_pinky03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_pinky01/bind_r_pinky02/bind_r_pinky03/bind_r_pinky04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_ring01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_ring01/bind_r_ring02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_ring01/bind_r_ring02/bind_r_ring03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_hand01/bind_r_ring01/bind_r_ring02/bind_r_ring03/bind_r_ring04
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_thumb01
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_thumb01/bind_r_thumb02
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_thumb01/bind_r_thumb02/bind_r_thumb03
+    m_Weight: 1
+  - m_Path: bind_pelvis/bind_spine01/bind_spine02/joint4/bind_r_clavicle/bind_r_shoulder01/bind_r_elbow01/bind_r_wrist01/bind_r_thumb01/bind_r_thumb02/bind_r_thumb03/bind_r_thumb04
+    m_Weight: 1
+  - m_Path: pyro_geometry
+    m_Weight: 1
+  - m_Path: pyro_geometry/botas
+    m_Weight: 1
+  - m_Path: pyro_geometry/boxer
+    m_Weight: 1
+  - m_Path: pyro_geometry/cabello2
+    m_Weight: 1
+  - m_Path: pyro_geometry/cejas
+    m_Weight: 1
+  - m_Path: pyro_geometry/cinbturon
+    m_Weight: 1
+  - m_Path: pyro_geometry/Collar
+    m_Weight: 1
+  - m_Path: pyro_geometry/dentadura_inferior
+    m_Weight: 1
+  - m_Path: pyro_geometry/dentadura_sup
+    m_Weight: 1
+  - m_Path: pyro_geometry/eye_L
+    m_Weight: 1
+  - m_Path: pyro_geometry/eye_R
+    m_Weight: 1
+  - m_Path: pyro_geometry/lengua
+    m_Weight: 1
+  - m_Path: pyro_geometry/munecas
+    m_Weight: 1
+  - m_Path: pyro_geometry/pyro
+    m_Weight: 1
