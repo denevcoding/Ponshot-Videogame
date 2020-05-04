@@ -54,6 +54,7 @@ public class PoncherInfo : ScriptableObject
     public float parryForce;       //Force of the parry execute
 
 
+    [Header ("Animation Smoothing")]
     //Sets of voices poncher sounds :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
     public AudioClip[] jumpVoices;
     public AudioClip[] pickVoices;
